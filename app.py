@@ -16,3 +16,5 @@ def square(a):
 
 def exp(a):
     return np.exp(a)
+def print_namr(g):
+    print(g)
